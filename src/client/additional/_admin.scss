@@ -1,0 +1,27 @@
+.answer-container {
+  display: flex;
+  flex: 1;
+}
+
+.answer-text {
+  flex: 1;
+}
+
+.answer-checkbox {
+  align-items: center;
+  display: flex;
+}
+
+.admin-navbar {
+  background-color: #c2c4c7;
+}
+
+.admin-panel {
+  height: 100%;
+  background-color: #f8f9fa;
+}
+
+.date-line {
+  justify-content: flex-end;
+  padding-right: 1vh;
+}
